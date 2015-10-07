@@ -1,0 +1,4 @@
+composer.phar
+vendor/
+public/tmp/sess_*
+node_modules
