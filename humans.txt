@@ -1,0 +1,13 @@
+/* TEAM */
+	Lead Developer: Manuel Avelar
+	Contact: manuel [at] pixelcreart.net
+	Site: http://mavelar.com
+	Twitter: @mavelar
+	From: San Pedro Sula, Honduras
+
+/* SITE */
+	Last update: 2015/10/07
+	Language: English
+	Doctype: HTML5
+	Components: Bootstrap, jQuery.
+	IDE: SublimeText 3, Notepad++, Git
